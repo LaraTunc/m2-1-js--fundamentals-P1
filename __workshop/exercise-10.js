@@ -13,6 +13,11 @@ function exercise10() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+  let x = '';
+  for (let num=1; num<=7; num++) { 
+    x= x+"#";
+    console.log(x); 
+  }
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //

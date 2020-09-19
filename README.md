@@ -21,7 +21,7 @@ Before starting the workshop, please run the following in the terminal. It will 
 Type `ctrl`+ `j` to open the terminal inside of VS Code.
 
 ```bash
-yarn install
+yarn installyarn
 ```
 
 In order to more easily evaluate your answers, you will need a `node` environment. VS Code provides us with a terminal, and in the terminal we can evaluate js files with Node.
